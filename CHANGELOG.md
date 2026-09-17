@@ -4,7 +4,7 @@
 
 Initial release
 
-## [2.1.0] - 2026-09-17
+## [1.1.0] - 2026-09-17
 
  - Require php 8 or higher
  - Drop support for guzzle 6
